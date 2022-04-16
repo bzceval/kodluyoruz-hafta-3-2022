@@ -94,20 +94,16 @@ footer {
 #about img {
   position: absolute;
   top: 0px;
-  left: 5vw;
+  right: 5vw;
   width: 100px;
 }
 
 @media (min-width: 800px) {
   #about img {
-    width: 300px;
+    width: 200px;
   }
-}
-
-
-
-
-/**/ 
+} 
+/*product*/ 
 * {
   box-sizing: border-box;
   font-weight: normal;
